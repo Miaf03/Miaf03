@@ -9,7 +9,7 @@
 - Open to collaborating on **open source** projects
 <br>
 <div align="center">
-    <p><strong>💡 Philosophy:** ✨ *If you can imagine it, you can program it ✨</strong></p>
+    <p><strong>💡 Philosophy: ✨ If you can imagine it, you can program it ✨</strong></p>
 </div>
 
 <!--  -->
