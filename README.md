@@ -22,8 +22,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=MiaF03&theme=radical)  
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiaF03&theme=react-dark" alt="GitHub Activity Graph">
-
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiaF03&theme=react-dark" alt="GitHub Activity Graph"> -->
 </div>
 
 <!--  -->
